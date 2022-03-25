@@ -11,7 +11,7 @@
         Creation Date:  25-02-2022
         Plattform:      Azure VIrtual Desktop (AVD)
         Changelog:      
-                        22-05-2022      1.0 - Initial script development
+                        25-05-2022      1.0 - Initial script development
     .COMPONENT
 
     .LINK
