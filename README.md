@@ -1,5 +1,7 @@
 # Azure Virtual Desktop (AVD)
 
+Azure Virtual Desktop documentation - https://learn.microsoft.com/en-us/azure/virtual-desktop/
+
 AVD What's new - https://github.com/MicrosoftDocs/azure-docs/tree/main/articles/virtual-desktop
 
 AVD Agent releases - https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-agent
