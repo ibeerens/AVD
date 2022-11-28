@@ -11,3 +11,5 @@ FSLogix latest version - https://learn.microsoft.com/en-us/fslogix/whats-new?con
 What's new in the Remote Desktop WebRTC Redirector Service - https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-webrtc
 
 What's new in the Remote Desktop client for Windows - https://learn.microsoft.com/en-us/azure/virtual-desktop/whats-new-client-windows
+
+Azure Virtual Desktop Tech Community - https://techcommunity.microsoft.com/t5/azure-virtual-desktop/bd-p/AzureVirtualDesktopForum
